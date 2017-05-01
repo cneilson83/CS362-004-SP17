@@ -1,0 +1,144 @@
+Resultsm:
+unittest1.c:
+############### Testing Function: isGameOver ###############
+PASSED initial case
+PASSED province supplyCount equals 0
+PASSED province supplyCount > 0
+PASSED other supply piles equal 0
+PASSED three supply piles equal 0
+PASSED two supply piles equal 0
+
+***isGameOver testing finished***
+File 'dominion.c'
+Lines executed:17.23% of 563
+Branches executed:17.27% of 417
+Taken at least once:14.15% of 417
+Calls executed:7.37% of 95
+Creating 'dominion.c.gcov'
+
+unittest2.c:
+############### Testing Function: gainCard ###############
+PASSED adding card with 0 supply
+PASSED adding card not used in game
+PASSED adding card to deck
+PASSED adding deck, no other piles altered
+PASSED test for player 2 state changes
+PASSED adding card to hand
+PASSED adding hand, no other piles altered
+PASSED test for player 2 state changes
+PASSED adding card to discard
+PASSED adding discard, no other piles altered
+PASSED test for player 2 state changes
+PASSED supply updated
+PASSED no other supply altered
+
+***gainCard testing finished***
+File 'dominion.c'
+Lines executed:18.12% of 563
+Branches executed:16.79% of 417
+Taken at least once:13.67% of 417
+Calls executed:8.42% of 95
+Creating 'dominion.c.gcov'
+
+unittest3.c:
+############### Testing Function: supplyCount ###############
+PASSED supply update
+PASSED other supply not altered
+
+***supplyCount testing finished***
+File 'dominion.c'
+Lines executed:15.81% of 563
+Branches executed:15.35% of 417
+Taken at least once:12.23% of 417
+Calls executed:7.37% of 95
+Creating 'dominion.c.gcov'
+
+unittest4.c:
+############### Testing Function: numHandCards ###############
+PASSED number cards in hand update
+
+***numHandCards testing finished***
+File 'dominion.c'
+Lines executed:16.16% of 563
+Branches executed:15.35% of 417
+Taken at least once:12.23% of 417
+Calls executed:8.42% of 95
+Creating 'dominion.c.gcov'
+
+cardtest1.c:
+############### Testing Card: Smithy ###############
+PASSED cardEffect return val
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+
+***Smithy testing finished***
+File 'dominion.c'
+Lines executed:20.07% of 563
+Branches executed:22.78% of 417
+Taken at least once:13.91% of 417
+Calls executed:11.58% of 95
+Creating 'dominion.c.gcov'
+
+cardtest2.c:
+############### Testing Card: Adventurer ###############
+PASSED cardEffect return val
+FAILED hand count
+FAILED deck count
+FAILED no discarded treasure
+PASSED test for current player state changes
+PASSED test for player 2 state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+
+***Adventurer testing finished***
+File 'dominion.c'
+Lines executed:19.01% of 563
+Branches executed:22.78% of 417
+Taken at least once:13.91% of 417
+Calls executed:10.53% of 95
+Creating 'dominion.c.gcov'
+
+cardtest3.c:
+############### Testing Card: Village ###############
+PASSED cardEffect return val
+Discarded count: new - (null), original - (null)PASSED test for hand count
+PASSED test for deck count
+PASSED test for number of actions
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+
+***Village testing finished***
+File 'dominion.c'
+Lines executed:20.07% of 563
+Branches executed:22.30% of 417
+Taken at least once:13.43% of 417
+Calls executed:11.58% of 95
+Creating 'dominion.c.gcov'
+
+cardtest4.c:
+############### Testing Card: Council Room ###############
+PASSED cardEffect return val
+FAILED hand count
+FAILED deck count
+PASSED test for number of buys
+FAILED other player hand count
+FAILED other player deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+
+***Council Room testing finished***
+File 'dominion.c'
+Lines executed:22.56% of 563
+Branches executed:24.70% of 417
+Taken at least once:15.83% of 417
+Calls executed:13.68% of 95
+Creating 'dominion.c.gcov'
+
