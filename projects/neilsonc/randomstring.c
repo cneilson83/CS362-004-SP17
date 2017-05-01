@@ -1,4 +1,4 @@
-/* Chris Neilson - CS 362 
+/* Chris Neilson - CS 362
 
 When writing the inputChar function, I first looked at the testme function to see what types 
 of characters it was looking for.  Once I confirmed that it was using both letters and 
