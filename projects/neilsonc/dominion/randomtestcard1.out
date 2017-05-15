@@ -1,0 +1,3936 @@
+Results:
+randomtestcard1.c
+############### Random Test Card: Smithy ###############
+Test Iteration: 1
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 2
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 3
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 4
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 5
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 6
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 7
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 8
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 9
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 10
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 11
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 12
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 13
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 14
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 15
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 16
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 17
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 18
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 19
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 20
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 21
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 22
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 23
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 24
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 25
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 26
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 27
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 28
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 29
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 30
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 31
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 32
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 33
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 34
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 35
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 36
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 37
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 38
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 39
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 40
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 41
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 42
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 43
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 44
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 45
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 46
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 47
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 48
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 49
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 50
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 51
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 52
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 53
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 54
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 55
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 56
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 57
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 58
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 59
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 60
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 61
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 62
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 63
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 64
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 65
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 66
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 67
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 68
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 69
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 70
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 71
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 72
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 73
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 74
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 75
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 76
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 77
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 78
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 79
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 80
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 81
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 82
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 83
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 84
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 85
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 86
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 87
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 88
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 89
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 90
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 91
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 92
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 93
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 94
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 95
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 96
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 97
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 98
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 99
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 100
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 101
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 102
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 103
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 104
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 105
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 106
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 107
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 108
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 109
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 110
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 111
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 112
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 113
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 114
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 115
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 116
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 117
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 118
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 119
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 120
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 121
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 122
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 123
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 124
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 125
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 126
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 127
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 128
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 129
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 130
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 131
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 132
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 133
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 134
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 135
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 136
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 137
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 138
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 139
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 140
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 141
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 142
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 143
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 144
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 145
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 146
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 147
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 148
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 149
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 150
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 151
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 152
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 153
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 154
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 155
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 156
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 157
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 158
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 159
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 160
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 161
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 162
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 163
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 164
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 165
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 166
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 167
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 168
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 169
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 170
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 171
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 172
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 173
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 174
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 175
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 176
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 177
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 178
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 179
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 180
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 181
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 182
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 183
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 184
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 185
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 186
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 187
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 188
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 189
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 190
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 191
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 192
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 193
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 194
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 195
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 196
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 197
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 198
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 199
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 200
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 201
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 202
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 203
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 204
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 205
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 206
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 207
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 208
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 209
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 210
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 211
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 212
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 213
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 214
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 215
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 216
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 217
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 218
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 219
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 220
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 221
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 222
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 223
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 224
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 225
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 226
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 227
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 228
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 229
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 230
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 231
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 232
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 233
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 234
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 235
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 236
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 237
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 238
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 239
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 240
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 241
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 242
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 243
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 244
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 245
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 246
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 247
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 248
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 249
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 250
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 251
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 252
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 253
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 254
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 255
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 256
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 257
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 258
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 259
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 260
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 261
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 262
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 263
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 264
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 265
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 266
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 267
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 268
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 269
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 270
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 271
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 272
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 273
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 274
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 275
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 276
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 277
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 278
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 279
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 280
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 281
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 282
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 283
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 284
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 285
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 286
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 287
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 288
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 289
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 290
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 291
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 292
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 293
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 294
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 295
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 296
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 297
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 298
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 299
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 300
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 301
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 302
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 303
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 304
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 305
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 306
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 307
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 308
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 309
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 310
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 311
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 312
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 313
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 314
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 315
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 316
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 317
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 318
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 319
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 320
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 321
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 322
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 323
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 324
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 325
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 326
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 327
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 328
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 329
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 330
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 331
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 332
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 333
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 334
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 335
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 336
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 337
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 338
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 339
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 340
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 341
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 342
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 343
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 344
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 345
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 346
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 347
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 348
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 349
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 350
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 351
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 352
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 353
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 354
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 355
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 356
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 357
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 358
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 359
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 360
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 361
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 362
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 363
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 364
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 365
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 366
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 367
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 368
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 369
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 370
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 371
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 372
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 373
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 374
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 375
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 376
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 377
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 378
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 379
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 380
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 381
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 382
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 383
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 384
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 385
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 386
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 387
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 388
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 389
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 390
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 391
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 392
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 393
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 394
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 395
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 396
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 397
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 398
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 399
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 400
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 401
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 402
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 403
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 404
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 405
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 406
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 407
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 408
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 409
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+FAILED other player state changes
+FAILED other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 410
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 411
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 412
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 413
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 414
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 415
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 416
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 417
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 418
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 419
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 420
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 421
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 422
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 423
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 424
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 425
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+FAILED other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 426
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 427
+PASSED test for hand count
+PASSED test for deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 428
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 429
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 430
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 431
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 432
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 433
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 434
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 435
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 436
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 437
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 438
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 439
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 440
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 441
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 442
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 443
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 444
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 445
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 446
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 447
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 448
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 449
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 450
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 451
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 452
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 453
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 454
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 455
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 456
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 457
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 458
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 459
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 460
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 461
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 462
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 463
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 464
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 465
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 466
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 467
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 468
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 469
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 470
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 471
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 472
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 473
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 474
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 475
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 476
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 477
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 478
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 479
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 480
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 481
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 482
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 483
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 484
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 485
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 486
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 487
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 488
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 489
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 490
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 491
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 492
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 493
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 494
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 495
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 496
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 497
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 498
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 499
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+Test Iteration: 500
+FAILED hand count
+FAILED deck count
+PASSED test for current player state changes
+PASSED test for other player state changes
+PASSED test for other player state changes
+PASSED test for no victory card changes
+PASSED test for no kingdom card changes
+
+***Smithy testing finished***
+Function 'updateCoins'
+Lines executed:81.82% of 11
+Branches executed:100.00% of 8
+Taken at least once:75.00% of 8
+No calls
+
+Function 'gainCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 1
+
+Function 'discardCard'
+Lines executed:92.31% of 13
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+No calls
+
+Function 'useSteward'
+Lines executed:0.00% of 10
+Branches executed:0.00% of 4
+Taken at least once:0.00% of 4
+Calls executed:0.00% of 5
+
+Function 'useVillage'
+Lines executed:0.00% of 5
+No branches
+Calls executed:0.00% of 2
+
+Function 'useCouncil_Room'
+Lines executed:0.00% of 9
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 3
+
+Function 'useSmithy'
+Lines executed:100.00% of 5
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+Calls executed:100.00% of 2
+
+Function 'useAdventurer'
+Lines executed:0.00% of 17
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+Calls executed:0.00% of 2
+
+Function 'cardEffect'
+Lines executed:0.00% of 205
+Branches executed:0.00% of 175
+Taken at least once:0.00% of 175
+Calls executed:0.00% of 55
+
+Function 'getCost'
+Lines executed:0.00% of 30
+Branches executed:0.00% of 28
+Taken at least once:0.00% of 28
+No calls
+
+Function 'drawCard'
+Lines executed:77.27% of 22
+Branches executed:100.00% of 6
+Taken at least once:66.67% of 6
+Calls executed:100.00% of 1
+
+Function 'getWinners'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 22
+Taken at least once:0.00% of 22
+Calls executed:0.00% of 2
+
+Function 'scoreFor'
+Lines executed:0.00% of 24
+Branches executed:0.00% of 42
+Taken at least once:0.00% of 42
+Calls executed:0.00% of 3
+
+Function 'isGameOver'
+Lines executed:0.00% of 10
+Branches executed:0.00% of 8
+Taken at least once:0.00% of 8
+No calls
+
+Function 'endTurn'
+Lines executed:0.00% of 20
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 3
+
+Function 'whoseTurn'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'fullDeckCount'
+Lines executed:0.00% of 9
+Branches executed:0.00% of 12
+Taken at least once:0.00% of 12
+No calls
+
+Function 'supplyCount'
+Lines executed:0.00% of 2
+No branches
+No calls
+
+Function 'handCard'
+Lines executed:0.00% of 3
+No branches
+Calls executed:0.00% of 1
+
+Function 'numHandCards'
+Lines executed:0.00% of 2
+No branches
+Calls executed:0.00% of 1
+
+Function 'buyCard'
+Lines executed:0.00% of 13
+Branches executed:0.00% of 6
+Taken at least once:0.00% of 6
+Calls executed:0.00% of 4
+
+Function 'playCard'
+Lines executed:0.00% of 14
+Branches executed:0.00% of 10
+Taken at least once:0.00% of 10
+Calls executed:0.00% of 3
+
+Function 'shuffle'
+Lines executed:100.00% of 16
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+Calls executed:100.00% of 2
+
+Function 'initializeGame'
+Lines executed:91.94% of 62
+Branches executed:95.65% of 46
+Taken at least once:84.78% of 46
+Calls executed:100.00% of 5
+
+Function 'kingdomCards'
+Lines executed:0.00% of 13
+No branches
+No calls
+
+Function 'newGame'
+Lines executed:0.00% of 3
+No branches
+No calls
+
+Function 'compare'
+Lines executed:83.33% of 6
+Branches executed:100.00% of 4
+Taken at least once:75.00% of 4
+No calls
+
+File 'dominion.c'
+Lines executed:21.49% of 563
+Branches executed:18.71% of 417
+Taken at least once:15.83% of 417
+Calls executed:10.53% of 95
+Creating 'dominion.c.gcov'
+

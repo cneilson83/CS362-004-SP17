@@ -1162,6 +1162,7 @@ void useAdventurer(struct gameState *state, int currentPlayer){
 	
 	int temphand[MAX_HAND], cardDrawn, drawntreasure = 0, z = 0;
 	
+	
 	while(drawntreasure <= 2){	//bug
 		if (state->deckCount[currentPlayer] < 1){//if the deck is empty we need to shuffle discard and add to deck
 			shuffle(currentPlayer, state);
@@ -1181,8 +1182,7 @@ void useAdventurer(struct gameState *state, int currentPlayer){
 	while(z - 1 >= 0){
 		state->discard[currentPlayer][state->discardCount[currentPlayer]++] = temphand[z - 1]; // discard all cards in play that have been drawn
 		z = z - 1;
-	}
-	
+	}	
 }
 
 //###################################################################################
