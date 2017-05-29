@@ -1,0 +1,39 @@
+Bug #1: Game not properly adding adventurer card to played pile after playAdventurer is called
+To reproduce this bug:  
+•	initialize the with a valid number of players, valid kingdom cards, seed, and valid game state.  
+•	call either playAdventurer directly or cardEffect with adventurer in the parameters
+•	check the playedCardCount variable for that game state
+Expected Results: playedCardCount should be 1
+Actual Results: playedCardCount is actually 0
+Cause:  in the playAdventurer function, there is no call to the discardCard function.  Every other 
+card appears to do this in order to add the card to the playedCardCount.  As a result, after the 
+playAdventurer function is called, the playedCardCount stays at 0.  This was discovered in my unit 
+test and randomtest when testing that the card was discarded properly by comparing the playedCardCount 
+from the current game state to a game state before playAdventurer was called.
+
+Bug #2: Game not properly reducing the handCount for the current player after playAdventurer is called
+To reproduce this bug:
+•	initialize the with a valid number of players, valid kingdom cards, seed, and valid game state.  
+•	call either playAdventurer directly or cardEffect with adventurer in the parameters
+•	check the handCount variable for that game state
+Expected Results: handCount should be 1 more than it was initially (add 2 treasure cards, subtract the played card)
+Actual Results: handCount is actually 2 more than it was initially
+Cause:  in the playAdventurer function, there is no call to the discardCard function.  Every other card appears 
+to do this in order to reduce the handCount.  As a result, after the playAdventurer function is called, the handCount 
+does not get reduced by 1.  This was discovered in my unit test and randomtest when comparing handCount from the 
+current game state to the game state before playAdventurer was called.
+
+
+Bug #3:  Game not properly adding smithy card to played pile after playSmithy is called
+To reproduce this bug:
+•	initialized the game with a valid number of players, valid kingdom cards, seed, and valid game state.  
+•	call either playSmithy directly or cardEffect with smithy in the parameters
+•	check the playedCardCount variable for that game state
+Expected Results: playedCardCount should be 1
+Actual Results: playedCardCount is actually 0
+Cause: in the playSmithy function, it calls the discardCard function.  The third parameter for that function 
+is an integer that is used to decide whether that card should be added to the played pile or if the card 
+was trashed.  If the card was trashed, the integer in the parameters is supposed to be a 1.  If the card was 
+not trashed, it is supposed to be a 0.  The integer given in the parameters was a 1.  This was discovered in 
+my unit test and randomtest when testing if the card was discarded properly by comparing the playedCardCount 
+from the current game state to a game state before playSmithy was called.
