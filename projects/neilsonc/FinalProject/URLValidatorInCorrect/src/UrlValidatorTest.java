@@ -151,7 +151,7 @@ public class UrlValidatorTest extends TestCase {
        boolean expected = true;
 
        for (int i = 0; i < portTrue.length; i++) {
-           url = "http://wwww.amazon.com";
+           url = "http://www.amazon.com";
            url = url + portTrue[i];
            if (urlVal.isValid(url) != expected){
                System.out.println(url + " - Error expected true");
@@ -160,7 +160,7 @@ public class UrlValidatorTest extends TestCase {
 
        expected = false;
        for (int i = 0; i < portFalse.length; i++) {
-           url = "http://wwww.amazon.com";
+           url = "http://www.amazon.com";
            url = url + portFalse[i];
            if (urlVal.isValid(url) != expected){
                System.out.println(url + " - Error expected false");
@@ -179,7 +179,7 @@ public class UrlValidatorTest extends TestCase {
        boolean expected = true;
 
        for (int i = 0; i < pathTrue.length; i++) {
-           url = "http://wwww.amazon.com:0";
+           url = "http://www.amazon.com:0";
            url = url + pathTrue[i];
            if (urlVal.isValid(url) != expected){
                System.out.println(url + " - Error expected true");
@@ -188,7 +188,7 @@ public class UrlValidatorTest extends TestCase {
 
        expected = false;
        for (int i = 0; i < pathFalse.length; i++) {
-           url = "http://wwww.amazon.com:0";
+           url = "http://www.amazon.com:0";
            url = url + pathFalse[i];
            if (urlVal.isValid(url) != expected){
                System.out.println(url + " - Error expected false");
@@ -206,7 +206,7 @@ public class UrlValidatorTest extends TestCase {
        boolean expected = true;
 
        for (int i = 0; i < queryTrue.length; i++) {
-           url = "http://wwww.amazon.com:80";
+           url = "http://www.amazon.com:80";
            url = url + queryTrue[i];
            if (urlVal.isValid(url) != expected){
                System.out.println(url + " - Error expected true");
@@ -215,7 +215,7 @@ public class UrlValidatorTest extends TestCase {
 
        expected = false;
        for (int i = 0; i < queryFalse.length; i++) {
-           url = "http://wwww.amazon.com:80";
+           url = "http://www.amazon.com:80";
            url = url + queryFalse[i];
            if (urlVal.isValid(url) != expected){
                System.out.println(url + " - Error expected false");
